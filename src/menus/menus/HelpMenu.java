@@ -11,7 +11,7 @@ public class HelpMenu implements Menu {
         sb
                 .append("Name: SnipeNT").append("\n")
                 .append("Description: Welcome to SnipeNT an application to easily calculate the times to snipe noble trains.").append("\n")
-                .append("version: v1.0").append("\n\n\n")
+                .append("version: v1.0.0-beta").append("\n\n\n")
                 .append("COMMANDS:").append("\n")
                 .append("add:    ").append("Add a new snipe to the list;").append("\n")
                 .append("help:   ").append("Display this information;").append("\n")
