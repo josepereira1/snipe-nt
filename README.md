@@ -2,6 +2,7 @@
 
 ## Requirements:
 - Java 8+;
+- This app works with UTC timezone (in future it will be possible to change the timezone).
 
 ## Run the application:
 
